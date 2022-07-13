@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Reza\Game Projects\C++\Basic\Class_Name(Studebt)\Source.cpp(11,16): warning C4305: '=': truncation from 'int' to 'char'
+D:\Reza\Game Projects\C++\Basic\Class_Name(Studebt)\Source.cpp(11,12): warning C4309: '=': truncation of constant value
+  Class_Name(Studebt).vcxproj -> D:\Reza\Game Projects\C++\Basic\Class_Name(Studebt)\x64\Debug\Class_Name(Studebt).exe
